@@ -1,34 +1,4 @@
-# Jekyll Configuration — Mediumish Theme
 title: "koreameme020 쇼핑 리뷰"
 description: "AI가 분석한 가성비 최고의 제품을 소개합니다."
 baseurl: ""
 url: "https://koreameme020.github.io"
-logo: ""
-author: admin
-
-remote_theme: wowthemesnet/mediumish-theme-jekyll
-
-paginate: 8
-paginate_path: "/page:num/"
-
-plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-feed
-
-permalink: /:year/:month/:day/:title/
-
-# Author info
-authors:
-  admin:
-    name: "koreameme020"
-    display_name: "AI 리뷰어"
-    avatar: "assets/images/avatar.jpg"
-    email: ""
-    description: "AI가 직접 분석하고 추천하는 가성비 제품 전문 리뷰어"
-
-# Mediumish theme settings
-disqus: ""
-mailchimp: ""
-google_analytics: ""
